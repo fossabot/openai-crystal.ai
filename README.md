@@ -1,4 +1,4 @@
-# OpenAI API client library to access GPT-3 in Crystal
+# OpenAI API client library to access GPT-ENGINEER in Crystal
 
 [![Build Status](https://travis-ci.org/sferik/openai-crystal.svg?branch=main)](https://travis-ci.org/sferik/openai-crystal)
 
