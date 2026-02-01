@@ -1,6 +1,7 @@
 # OpenAI API client library to access GPT-ENGINEER in Crystal
 
 [![Build Status](https://travis-ci.org/sferik/openai-crystal.svg?branch=main)](https://travis-ci.org/sferik/openai-crystal)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fopenai-crystal.ai.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fopenai-crystal.ai?ref=badge_shield)
 
 ## Installation
 
@@ -50,3 +51,7 @@ end
 ## Contributors
 
 - [Erik Berlin](https://github.com/sferik) - creator and maintainer
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fopenai-crystal.ai.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fopenai-crystal.ai?ref=badge_large)
